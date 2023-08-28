@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DRÁCULA 2 - A ASCENSÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2B533F9505C7E8FD1EC57CAD3AF8ADC022D48B14</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ngomDZt13JdOFjdJIisSCyLqwXh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Drácula não morreu. Depois de ficar anos desaparecido, o Príncipe das Trevas retorna em mais um filme de terror arrepiante. Um corpo totalmente carbonizado chega ao necrotério. Ao começar a autópsia, a Dra. Elizabeth nota que está de frente para um corpo completamente sem sangue. Inicia-se uma série de experiências que despertam o vampiro enfurecido e sedento. Ele quer secar as veias daquele grupo de homens e mulheres, mas Drácula não sabe que o padre Uffizi está à sua procura. Conhecido caçador de vampiros, ele não descansará enquanto não eliminar mais este sanguessuga. Uma luta desesperada está para começar..</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DRÁCULA 3- LEGADO FINAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AC5825824F87184A659BD9ACBD5D80F28608D1F8</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/cF9QtMWfvIDYjendlEyFvtLI1OI.jpg</thumbnail>
