@@ -11,6 +11,22 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DRÁCULA 2000 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/o9HrNc6n6GnLjaapL5JDCNOs0rF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
+
+<item>
+<title>[COLOR silver][B] DRÁCULA 1979 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E36E82C8D65597695B945F58AB6481823F59AF69</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eoGngyCPquWRwT56Sjo15ZqcbO6.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma escuna naufraga na costa da Inglaterra em 1913, e o único sobrevivente é o Conde Drácula. Charmoso e educado, ele faz amigos e procura uma noiva, mas Van Helsing não dá tréguas e continua sua obcecada caça ao Senhor das Trevas.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DRÁCULA 2 - A ASCENSÃO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2B533F9505C7E8FD1EC57CAD3AF8ADC022D48B14</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ngomDZt13JdOFjdJIisSCyLqwXh.jpg</thumbnail>
