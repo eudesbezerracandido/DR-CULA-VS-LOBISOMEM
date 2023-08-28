@@ -2,6 +2,104 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] TRILOGIA - OS GAROTOS PERDIDOS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B78B9C37E5DEB8D9E9291AA1CC55E8AFF311D67F$nome=OS GAROTOS PERDIDOS</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32EBAA4FA9CF23A7B78909FD746A037FF8A1B4C8$nome=OS GAROTOS PERDIDO A SEDE</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B5C6B83FC24E202A204414B277A9E554F4F2BCAF$nome=OS GAROTOS PERDIDOS A TRIBO</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jVMnvx1hYaKvhYhBnTFCDqamlqR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/hDjaJcbrwaCpGc8lsAdpnot5fWS.jpg</fanart>
+<info>Os irmãos adolescentes Michael e Sam se mudam com a sua mãe para uma pequena cidade no norte da Califórnia. Enquanto o jovem Sam encontra novos amigos com interesses semelhantes, o angustiado Michael acaba se apaixonando por Star, que está envolvida com David, o líder de uma
+
+<item>
+<title>[COLOR silver][B] DRÁCULA  2000 [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aafa86101b16d742a1af7348a1972f891e93f8ed</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4Jo94Hps0iKI4T94Sf3kCHxSV5O.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um jovem caçador de vampiros (Jonny Lee Miller), ainda em treinamento, é enviado de Londres até Nova Orleans para proteger Mary Van Helsing (Justine Waddell) do vampiro Drácula (Gerard Butler), que pretende capturá-la.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] O  LOBISOMEM [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:562c20efabcbf1596244295c516a1d59f6cb8661</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/210/560/21056024_20131107204243793.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O ator Lawrence Talbot (Benicio Del Toro), quando criança, sofreu com a morte de sua mãe e nunca mais voltou a morar com o pai (Anthony Hopkins). Mais de duas décadas depois do ocorrido, ele é chamado por sua futura cunhada Gwen Conliffe (Emily Blunt) para ajudá-la a encontrar o noivo desaparecido. Ao retornar para a casa do pai, Talbot acaba se envolvendo numa investigação sobre violentas mortes que acontecem nas noites de lua cheia, entrando em contato com o seu passado e descobrindo um segredo que mudará para sempre a sua vida.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] BALA DE PRATA -  A HORA DO LOBISOMEM [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F6E57BDF333B927D173861FC21137B6502209F24</link>
+<thumbnail>https://http2.mlstatic.com/D_NQ_NP_645300-MLB25887820706_082017-O.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O filme tem dois nomes: Bala de Prata e A Hora do Lobisomem, a história aborda a drástica alteração no cotidiano da outrora pacata cidadezinha de Tarker's Mill, no interior dos EUA, quando na primavera de 1976, uma série de violentos assassinatos passam a se suceder, cada vez que a lua cheia surge no céu. Um garoto paralítico chamado Marty Coslaw, começa a desconfiar que o responsável pelos crimes seja um lobisomem, o que acaba se confirmando. Mais tarde, quando Marty, descobre a identidade do monstro, passa a ser perseguido pelo mesmo, e precisará encontrar uma forma de destruí-lo para salvar a própria vida.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] UM LOBISOMEM AMERICANO EM LONDRES [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B328C30F0ABEA1BFFA323CAED12EEE3D5421BE19</link>
+<thumbnail>https://pm1.narvii.com/6703/29dd0ce08d8d1f2897baaf864352e94ae093fecc_hq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>David Kessler (David Naughton) e Jack Goodman (Griffin Dunne) são colegas de colégio, que vieram dos Estados Unidos para conhecer a Inglaterra. Pedindo carona nas estradas, eles chegam a uma pequena cidade. Lá vão ao bar, sendo friamente
+recepcionados pelos moradores locais. A situação piora ainda mais quando Jack pergunta o porquê do local ter velas e um pentágono na parede. Ao deixar o local, eles caminham por uma estrada deserta e enevoada. Logo percebem que um animal está cercando-os. Jack é então atacado por um enorme lobisomem, tendo seu corpo dilacerado. David foge, mas é também atacado. Ele fica apenas com cortes no rosto e nos ombros, o suficiente para que se transforme em um lobisomem.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] SINISTRO -  A MALDIÇÃO DO LOBISOMEM [/COLOR][/B][COLOR yellow] FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C641E04F79CDF7C9C1C1EB13814C036063C2E35A</link>
+<thumbnail>https://media.fstatic.com/7JjWxMUxFyNkVGVFIMsyT1Col_8=/290x478/smart/media/movies/covers/2018/12/74018_f1.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A advogada de defesa Kate (A. J. Cook) começa a suspeitar de um dos seus clientes, que está sendo acusado do assassinato de uma família que estava de férias. Ele acha que o acusado está escondendo algo além do que aparenta ser.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] QUADRILOGIA -  ANJOS DA NOITE [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DE3C29C50468C1540486C83CC89C2559E229125D$nome=ANJOS DA NOITE</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AB00E2C090E8C36D5C1567C71BCE8394456FB044$nome=ANJOS DA NOITE</link>
+<thumbnail>https://4.bp.blogspot.com/-lfL40h_Kz8o/WMNUpRiP_3I/AAAAAAAAK6g/Q8N7wRCTxnQ2gyJfGKUBczVlBhDwkrpiwCLcB/s1600/Underworld%2BQuadrilogy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Enfim No Filme Download Quadrilogia Anjos da Noite Torrent – BluRay 1080p / 720p Dublado 2016 – Numa noite chuvosa, ao entrar numa estação do metrô Michael Corvin (Scott Speedman), um estudante de medicina, se vê no meio de um violento tiroteio entre duas facções inimigas. De um lado estão os Mercadores da Morte, grupo de elite formado por vampiros. Do outro os lycans ou lobisomens, inimigos milenares dos sanguessugas.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] COLEÇÃO COMPLETA - CREPÚSCULO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1F64324E113767B7A5D27E279CFB15D41E7DBD4C&dn=A%20Saga%20Crepusculo%20Completa</link>
+<thumbnail>https://mlb-s2-p.mlstatic.com/quadrilogia-a-saga-crepusculo-amanhecer-part-1-e-2-14397-MLB3508485640_122012-F.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Todos os filmes da saga Crepúsculo, incluindo o primeiro filme Crepúsculo (2008), Lua Nova (2009), Eclipse (2010), Amanhecer Parte 1 (2011) e o último filme da franquia Amanhecer Parte 2 (2012). Bella (Kristen Stewart) é uma jovem adolescente que se muda para Forks, Washington, para viver com o pai. Assim que ela chega ao local, Bella fica sabendo de uma misteriosa família moradora da cidade. Ela acaba conhecendo um dos cinco irmãos da tal família, Edward (Robert Pattinson), e aos poucos vai descobrindo alguns segredos. O mais importante de todos é que se tratam de vampiros. Bella fica assustada com aquilo, mas decide encarar os riscos e seguir adiante com a paixão que a move pelo rapaz.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TRILOGIA - BLADE O QUE ANDA DE DIA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F23772F3EA9614C2FCD6B4ADA80FB50A897211DF$nome=BLADE 1</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EAC8016B1B8AE5D2C55C523208D3336A6C05E3E6$nome=BLADE 2</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C312EB6493759202F88468F6A94511F584A11DA6$nome=BLADE 3</link>
+<thumbnail>https://http2.mlstatic.com/D_NQ_NP_828725-MLB31195464086_062019-O.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Blade – O Caçador de Vampiros:
+Após ser contaminado pelo sangue de uma criatura das trevas, Blade (Wesley Snipes) transformou-se num guerreiro imortal, metade-homem, metade-vampiro. Desde então, ele dedica-se a caçar o líder dos mortos-vivos Deacon Frost (Stephen Dorff) e seus asseclas, que estão planejando um grande plano para aumentar sua dominação sobre a raça humana.
+Blade II – O Caçador de Vampiros:
+Blade (Wesley Snipes) é um ser meio homem, meio vampiro que é consumido pelo desejo de vingança contra os seres que atacaram sua mãe antes mesmo dele nascer e fizeram com que ele se tornasse o que é atualmente. Com isso, ao crescer Blade iniciou uma verdadeira cruzada pessoal para combater e eliminar os vampiros, mas agora uma nova raça mais poderosa chamada reapers, criada a partir de cruzamentos genéticos entre humanos e vampiros, ameaça eliminar ambas as raças. Visto isso, Blade se alia aos seus maiores inimigos para que, juntos, possam combater esta nova raça de seres.
+Blade Trinity:</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ABRAHAN LINCOLHN - CAÇADOR DE VAMPIROS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcab292a7e47baf8db8299060b33a4b5d5b1be0a</link>
+<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/90/21/99/20227972.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Lincoln" recria um dos grandes presidentes dos EUA como um assassino vampiro altamente treinado, lançador de machados, que promete dar um novo contexto aos eventos históricos como a Guerra de Secessão e a ascensão de Lincoln até a Casa Branca. A história começa com o assassinato de sua mãe quando ele era criança e sua promessa de vingança. Adaptação do livro de Seth Grahame-Smith.</info>
+</item> 
+
+<item>
+<title>[COLOR silver][B] UM LOBISOMEM AMERICANO EM LONDRES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9C2AD16C86C4DCD7A1961469DCA04749E225CCE6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1NUOprbP7LLfKPArLJY7wziUiHT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A filha de um lobisomem mora em Paris, onde sua mãe e o padrasto tentam curá-la da licantropia, que herdou geneticamente. Mas nem tudo corre como o planejado e ela tenta se suicidar saltando da Torre Eiffel, sendo salva por um americano que viaja através da Europa com dois amigos. Os dois se apaixonam, mas ele logo se envolve em uma sociedade secreta de lobisomens e uma droga que permite que os lobisomens se transformem, sem necessidade de lua cheia.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] ENTREVISTA COM O VAMPIRO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9DBED5AF71CA3CE9383E3A2ECD1F8BA3AE798AB3</link>
