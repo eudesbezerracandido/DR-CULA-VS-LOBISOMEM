@@ -11,11 +11,11 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] DRÁCULA 2000 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/o9HrNc6n6GnLjaapL5JDCNOs0rF.jpg</thumbnail>
+<title>[COLOR silver][B] TRILOGIA - BLADE TRINITY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:TZQPERAXQ6F74JVFOJ7C4KPC75T53KDN</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vX9KLfxDQNDMF1pka1Yr56N9AXE.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
+<info>Após ser contaminado pelo sangue de uma criatura das trevas, Blade transformou-se num guerreiro imortal, metade-homem, metade-vampiro. Desde então, ele dedica-se a caçar o líder dos mortos-vivos Deacon Frost e seus asseclas, que estão planejando um grande plano para aumentar sua dominação sobre a raça humana.</info>
 </item>
 
 <item>
