@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] DRÁCULA 3- LEGADO FINAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AC5825824F87184A659BD9ACBD5D80F28608D1F8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/cF9QtMWfvIDYjendlEyFvtLI1OI.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Num futuro próximo, Uffizi e Luke viajam para Romênia dilacerada pela guerra para salvar Elizabeth e exterminar os vampiros de uma vez por todas. Pelo caminho eles encontram um jornalista de tv e um grupo de rebeldes que tentam lutar contra o ressurgimento dos vampiros que ameaça seu país.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DRÁCULA-A ÚLTIMA VIAGEM DE DEMÉTER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1DA005A35FD71A7CF28053BC9A9A4F6FE747D70F</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pZaFdrYekwC9ITq4yWrkqEwCy3E.jpg</thumbnail>
