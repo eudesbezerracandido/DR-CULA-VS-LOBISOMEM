@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] LOBISOMEM-A BESTA ESTA ENTRE NÓS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3addbf19e7c2e12cee27ef47a19204b46ed06b47</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/fw0MlWcVzzOXSS1KLwIMyN3lOPs.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando uma monstruosa criatura apavora um vilarejo nas noites de luar, o jovem Daniel convence um grupo de treinados caçadores de lobisomens a deixá-lo participar de sua captura. À medida que os moradores são atacados um a um e transformados em monstros vorazes, Daniel começa a recear que o monstro seja alguém mais próximo do que podia imaginar.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A HORA DO LOBISOMEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
