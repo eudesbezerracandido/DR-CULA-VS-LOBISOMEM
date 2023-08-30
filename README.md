@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] A HORA DO LOBISOMEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F6E57BDF333B927D173861FC21137B6502209F24</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eQA7jDJfTaTVAS3wNpAE04iNBLj.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma série de assassinatos aterroriza Tarker's Mills. Apesar dos habitantes acharem que a culpa é de um assassino em série, Marty, um menino deficiente, sabe que há um lobisomem na cidade. Com a ajuda de sua irmã, ele decide caçá-lo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] TRILOGIA - OS GAROTOS PERDIDOS  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B78B9C37E5DEB8D9E9291AA1CC55E8AFF311D67F$nome=OS GAROTOS PERDIDOS</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32EBAA4FA9CF23A7B78909FD746A037FF8A1B4C8$nome=OS GAROTOS PERDIDO A SEDE</link>
