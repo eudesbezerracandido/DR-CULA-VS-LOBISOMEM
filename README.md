@@ -38,7 +38,7 @@
 
 <item>
 <title>[COLOR silver][B] UM LOBISOMEM AMERICANO EM LONDRES [/COLOR][/B][COLOR yellow]  FULL HD [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B328C30F0ABEA1BFFA323CAED12EEE3D5421BE19</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53a1361d467f3189287d33fb89fc0fa4bd5c0308</link>
 <thumbnail>https://pm1.narvii.com/6703/29dd0ce08d8d1f2897baaf864352e94ae093fecc_hq.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>David Kessler (David Naughton) e Jack Goodman (Griffin Dunne) são colegas de colégio, que vieram dos Estados Unidos para conhecer a Inglaterra. Pedindo carona nas estradas, eles chegam a uma pequena cidade. Lá vão ao bar, sendo friamente
