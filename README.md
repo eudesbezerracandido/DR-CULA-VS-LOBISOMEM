@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] UM LOBISOMEM ENTRE NÓS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a858cd693ac29542dc768a2864e028bb48f697fa</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/43RUnOBA7VgEXzXw6Gx3lifullJ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Inverno, noite de luar - Duas mulheres com uma criança caminham pela floresta. E em algum lugar próximo, um lobisomem vagueia em busca de uma vítima. Ou uma besta, ou um homem, ou um fantasma.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O LOBO VIKING [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1764d6831465a57829a8ecb127f2b403d8b17e17</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/gWfa1uahpIXlNkv7AMEvQt4VMde.jpg</thumbnail>
