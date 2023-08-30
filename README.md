@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] O LOBO VIKING [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1764d6831465a57829a8ecb127f2b403d8b17e17</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gWfa1uahpIXlNkv7AMEvQt4VMde.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma adolescente que acabou de se mudar para uma cidadezinha testemunha um assassinato brutal. Depois disso, ela começa a ter visões e desejos bizarros.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A HORA DO LOBISOMEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F6E57BDF333B927D173861FC21137B6502209F24</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/eQA7jDJfTaTVAS3wNpAE04iNBLj.jpg</thumbnail>
