@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] DRÁCULA - O PRINCIPE DAS TREVAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e022fa9cc47066ab6936d49d1a7f2f67f4b5b966</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xHhBLyMIwoy0B6EVsB7ms3gZGBJ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Drácula, o príncipe da Valáquia, se volta para o lado das trevas após o assassinato de sua amada esposa. Muitos anos depois ele conhece Alina, e a considera a reencarnação de seu amor perdido e a sequestra. Os companheiros de Alina, liderados pelo famoso caçador de vampiros Van Helsing, partem em sua perseguição. Sua emocionante viagem leva-os a um país selvagem onde eles devem lutar contra mortos-vivos, culminando em uma batalha épica contra um poder assustador e malícia do senhor dos vampiros.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] LOBISOMEM-A BESTA ESTA ENTRE NÓS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3addbf19e7c2e12cee27ef47a19204b46ed06b47</link>
