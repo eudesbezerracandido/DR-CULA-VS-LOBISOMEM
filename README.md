@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] A RAINHA DOS CONENADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12331a0cd1ba02e86d9b350ba403ebaf144b62a8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jGkYV6Fk9GBWuccCitRatlXL3FC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O vampiro Lestat (Stuart Towsend) reinventou a si mesmo e agora é uma grande estrela do rock contemporâneo nos Estados Unidos. Sua música acaba despertando Akasha (Aaliyah), a rainha de todos os vampiros, cujo poder é tão grande que para combatê-la todos os vampiros da face da Terra precisarão se unir a fim de evitar sua própria extinção. Mas assim como a música de Lestat inspira Akasha, que deseja fazer dele seu rei, ela também faz com que Jesse (Marguerite Moreau), uma jovem fascinada pelo lado negro da vida, se apaixone por Lestat.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DRÁCULA - O PRINCIPE DAS TREVAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
