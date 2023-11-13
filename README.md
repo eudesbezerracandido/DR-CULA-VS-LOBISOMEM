@@ -2,6 +2,20 @@
 
 
 
+
+
+
+
+
+
+<item>
+<title>[COLOR silver][B] UM LOBISOMEM NA INGLATERRA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f618497cd39e9c6a65866c56a9ec9a4d95fb9642</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gcrx7Msv9BVueTqK9KT8jhsHdzS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um conselheiro paroquial e um criminoso refugiam-se em uma pousada rural remota, sem saber que lobisomens famintos habitam as florestas ao redor e estão prontos para se alimentar. Um conselheiro paroquial e um criminoso refugiam-se em uma pousada rural remota, sem saber que lobisomens famintos habitam as florestas ao redor e estão prontos para se alimentar.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] A RAINHA DOS CONENADOS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12331a0cd1ba02e86d9b350ba403ebaf144b62a8</link>
