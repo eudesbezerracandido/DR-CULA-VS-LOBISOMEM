@@ -6,7 +6,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] O RENASCIMENTO DO DRÁCULA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2b0d5915535a612e991732c5077a0c04e42d0a65</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/8qYoHVNhyLVqzNritUESG2QkvjC.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Jonathan Harker vive na moderna Los Angeles. Lá, ele tem um bom emprego, uma bela esposa e um filho que está para nascer. Mas, na escuridão da noite, o estranho rico e enigmático Vladimir Sarka, vem para destruir tudo. Agora, a fim de obter sua vida de volta, ele tem que juntar forças com o improvável caçador de monstros Abraham Van Helsing e preparar-se, para fazer o máximo de sacrifício. Esqueça o que você sabe sobre a lenda… Tudo está prestes a ser Renascido.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A FÚRIA DE DRÁCULA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
