@@ -7,6 +7,9 @@
 
 
 
+
+
+
 <item>
 <title>[COLOR silver][B] CAÇADORES DE LOBSOMEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0e3afabc5f354746dc2d1bbc5b415010db4b8e7</link>
@@ -282,7 +285,7 @@ Blade Trinity:</info>
 
 <item>
 <title>[COLOR silver][B] DRÁCULA 3000 -ESCURIDÃO INFINITA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C1BDFD9E08C627ED0CC423F5F3D9E47375F8AA68</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/p2B94alKCF9hx83UC8vPoxqtOm0.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
 <info>No ano 3000, o navio de salvamento do espaço profundo, a Mãe III, localiza a nave estilhaçada Deméter no Sistema dos Cárpatos. O capitão Abraham Van Helsing e sua tripulação composta pela assistente loira Aurora Ash; o aleijado navegador Arthur "The Professor" Holmwood, que acredita ser um gênio; o forte e mudo Humvee; a estagiária Mina Murry; e o viciado em drogas, 187, decide reivindicar a posse de Deméter. Ao explorar a espaçonave, eles viram uma fita de cinquenta anos atrás do capitão Varna dizendo que ele estava trancado em sua cabine desde que sua tripulação estava agindo de forma estranha depois de pegar uma carga de caixões na estação da Transilvânia. Quando 187 decide procurar nos caixões alguma droga escondida, ele corta a mão e seu sangue desperta Conde Orlock, também conhecido como Conde Drácula. Quando Aurora revela quem é Drácula, os sobreviventes tentam encontrar uma maneira de destruir o vampiro</info>
