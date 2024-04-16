@@ -8,7 +8,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] A FÚRIA DE DRÁCULA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b23172a6673755182083ad2ad93e4af5f76ee282</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/zOThazY5PDAjhYftw43nv17Gb57.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>O ano é 1897. Quando seu marido Jonathan desaparece após viajar da Inglaterra para a Transilvânia a mando do misterioso Conde Drácula, Mina Harker viaja para a Transilvânia para encontrá-lo. Ao chegar, ela encontra uma vila dizimada e um certo Van Helsing, que está caçando Drácula. Van Helsing começa a treinar Mina na arte de matar vampiros, e a dupla improvável parte para resgatar Jonathan do Conde e suas noivas, e acabar com o reinado de terror do vampiro para sempre.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] CAÇADORES DE LOBSOMEM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
