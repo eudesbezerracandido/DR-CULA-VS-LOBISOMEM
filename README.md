@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] VAMPIRAS - AS NOIVAS DE DRÁCULA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:HIWPUSXWDEARV2RJBXFNQ5SEBH3TRTB5</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/u3BGvGzAzWbfUa0P3CvdEPzzzN9.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Depois de mais de 300 anos escondidas, as noivas de Drácula, Luna, Adriana e sua nova aprendiz Katya, devem se unir mais uma vez para deter a ameaça mais diabólica de seu passado, sua irmã Mina.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O RENASCIMENTO DO DRÁCULA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
